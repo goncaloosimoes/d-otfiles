@@ -1,0 +1,7 @@
+{
+        "theme": "One Dark Pro",
+        "vim_mode": true,
+        "buffer_font_family": "JetBrainsMono Nerd Font",
+        "ui_font_size": 20,
+        "tab_size": 8
+}
