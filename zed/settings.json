@@ -1,7 +1,8 @@
 {
-        "theme": "One Dark Pro",
+        "theme": "Xcode Presentation Light",
         "vim_mode": true,
         "buffer_font_family": "JetBrainsMono Nerd Font",
         "ui_font_size": 20,
-        "tab_size": 8
+        "tab_size": 8,
+        "autosave": "on_focus_change"
 }

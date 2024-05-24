@@ -35,4 +35,3 @@ yabai -m rule --add app="^QuickTime Player$" manage=off
 yabai -m rule --add app="CapCut" manage=off
 
 borders active_color=0xff808080 inactive_color=0xff0a0a0a width=5.0
-yabai -m config external_bar all:38:0
